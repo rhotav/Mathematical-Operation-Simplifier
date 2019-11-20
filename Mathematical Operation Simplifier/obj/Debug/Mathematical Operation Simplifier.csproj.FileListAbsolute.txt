@@ -1,0 +1,12 @@
+C:\Users\root\source\repos\Mathematical Operation Simplifier\Mathematical Operation Simplifier\bin\Debug\Mathematical Operation Simplifier.exe.config
+C:\Users\root\source\repos\Mathematical Operation Simplifier\Mathematical Operation Simplifier\bin\Debug\Mathematical Operation Simplifier.exe
+C:\Users\root\source\repos\Mathematical Operation Simplifier\Mathematical Operation Simplifier\bin\Debug\Mathematical Operation Simplifier.pdb
+C:\Users\root\source\repos\Mathematical Operation Simplifier\Mathematical Operation Simplifier\bin\Debug\dnlib.dll
+C:\Users\root\source\repos\Mathematical Operation Simplifier\Mathematical Operation Simplifier\obj\Debug\Mathematical Operation Simplifier.csprojAssemblyReference.cache
+C:\Users\root\source\repos\Mathematical Operation Simplifier\Mathematical Operation Simplifier\obj\Debug\Mathematical_Operation_Simplifier.Form1.resources
+C:\Users\root\source\repos\Mathematical Operation Simplifier\Mathematical Operation Simplifier\obj\Debug\Mathematical_Operation_Simplifier.Properties.Resources.resources
+C:\Users\root\source\repos\Mathematical Operation Simplifier\Mathematical Operation Simplifier\obj\Debug\Mathematical Operation Simplifier.csproj.GenerateResource.cache
+C:\Users\root\source\repos\Mathematical Operation Simplifier\Mathematical Operation Simplifier\obj\Debug\Mathematical Operation Simplifier.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\Mathematical Operation Simplifier\Mathematical Operation Simplifier\obj\Debug\Mathematical Operation Simplifier.csproj.CopyComplete
+C:\Users\root\source\repos\Mathematical Operation Simplifier\Mathematical Operation Simplifier\obj\Debug\Mathematical Operation Simplifier.exe
+C:\Users\root\source\repos\Mathematical Operation Simplifier\Mathematical Operation Simplifier\obj\Debug\Mathematical Operation Simplifier.pdb

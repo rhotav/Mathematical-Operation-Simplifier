@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathematical Operation Simplifier", "Mathematical Operation Simplifier\Mathematical Operation Simplifier.csproj", "{189709C0-9C75-4D92-AE98-39B955DEEDDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{189709C0-9C75-4D92-AE98-39B955DEEDDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189709C0-9C75-4D92-AE98-39B955DEEDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189709C0-9C75-4D92-AE98-39B955DEEDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189709C0-9C75-4D92-AE98-39B955DEEDDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {812AD005-52C3-4ADE-A960-611BA3D1710C}
+	EndGlobalSection
+EndGlobal
